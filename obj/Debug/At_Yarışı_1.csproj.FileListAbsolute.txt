@@ -1,0 +1,31 @@
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe.config
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.pdb
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csprojResolveAssemblyReference.cache
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Form1.resources
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Properties.Resources.resources
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.GenerateResource.Cache
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.exe
+c:\users\msı\documents\visual studio 2015\Projects\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.pdb
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe.config
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.pdb
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.AssemblyReference.cache
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.SuggestedBindingRedirects.cache
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Form1.resources
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Properties.Resources.resources
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.GenerateResource.cache
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.CoreCompileInputs.cache
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.exe
+D:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.pdb
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe.config
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.exe
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\bin\Debug\At_Yarışı_1.pdb
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.AssemblyReference.cache
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.SuggestedBindingRedirects.cache
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Form1.resources
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.Properties.Resources.resources
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.GenerateResource.cache
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.csproj.CoreCompileInputs.cache
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.exe
+E:\visual yaptıklarım\At_Yarışı_1\At_Yarışı_1\obj\Debug\At_Yarışı_1.pdb
